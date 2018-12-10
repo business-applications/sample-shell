@@ -30,7 +30,7 @@ Once started, the business app will launch its interactive terminal/shell mode.
 Spring Shell includes a number of built-in commands, such as
 
 ```
-help
+sample-shell-service:> help
 ```
 which will list all the built in commands as well as the commands that the demo application defines
 and those are the interesting ones that you can use in this demo.
