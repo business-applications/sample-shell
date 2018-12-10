@@ -1,0 +1,5 @@
+
+*** Process Instances ***
+[# th:each="processinst : ${processinstances}" ]
+[(${processinstStat.count})]) Id:[(${processinst.getId()})] Name:[(${processinst.getProcessName()})] State: [(${processinst.getState()})] Version: [(${processinst.getProcessVersion()})]
+[/]

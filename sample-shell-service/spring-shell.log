@@ -1,0 +1,5 @@
+1544425906095:clear
+1544425907510:help
+1544425913568:processdefs
+1544426679936:deploy com.company sample-shell-secondkjar 1.0-SNAPSHOT
+1544426682879:processdefs
