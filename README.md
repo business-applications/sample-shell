@@ -38,26 +38,22 @@ and those are the interesting ones that you can use in this demo.
 The demo commands are:
 
 ```
-Deploy Module Command
-        deploy: Deploy module
+deploy
 ```
 This command allows you to deploy a new kie module (kjar) to your business app.
 
 ```
-Process Definitions Command
-        processdefs: Show process definitions
+processdefs
 ```
 This command allows you to see all process definitions currently available.
 
 ```
-Process Instances Command
-        processinstances: Show Process Instances
+processinstances
 ```
 This command shows all process intances currently available.
 
 ```
-Start Process Command
-        startprocess: Start business process
+startprocess
 ```
 This command allows you to start a business process.
 
