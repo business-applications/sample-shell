@@ -5,7 +5,7 @@ to create an interactive runnable shell application.
  
 ![Sample of demo](img/shell-demo.png?raw=true)
 
-Not all business applications need a web interface. Being able to interact with 
+Not all business applications need a web interface. Being able to work with 
 an interactive terminal is what the Spring Shell module provides and what we 
 use in this jBPM business apps demo.
 
