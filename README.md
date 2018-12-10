@@ -73,7 +73,7 @@ to see how easy it is to deploy new deployment units with shell command:
 sample-shell-service:> deploy com.company sample-shell-secondkjar 1.0-SNAPSHOT
 ```
 
-one this module is deployed you an see its business process definitions available with command: 
+once this module is deployed you an see its business process definitions available with command: 
 
 ```
 sample-shell-service:> processdefs
