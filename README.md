@@ -38,24 +38,26 @@ and those are the interesting ones that you can use in this demo.
 The demo commands are:
 
 ```
-deploy
+deploy <groupId> <artifactId> <version>
 ```
 This command allows you to deploy a new kie module (kjar) to your business app.
+The paramters this command takes are groupId, artifactId, and version
 
 ```
 processdefs
 ```
-This command allows you to see all process definitions currently available.
+This command allows you to see all process definitions currently available. It takes no
+input parameters.
 
 ```
 processinstances
 ```
-This command shows all process intances currently available.
+This command shows all process intances currently available. It takes no input paramters.
 
 ```
-startprocess
+startprocess <processId>
 ```
-This command allows you to start a business process.
+This command allows you to start a business process. It takes one parater which is the processId
 
 You can easily build more shell commands and expand the current ones included in the demo. 
 The demo app comes with a module called 
