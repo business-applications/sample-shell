@@ -55,11 +55,12 @@ processinstances
 This command shows all process intances currently available. It takes no input paramters.
 
 ```
-startprocess <processId>
+startprocess <processId> <deploymentId>
 ```
-This command allows you to start a business process. It takes one parater which is the processId
+This command allows you to start a business process. It takes parameters processId and deploymentId.
 
 You can easily build more shell commands and expand the current ones included in the demo. 
+
 The demo app comes with a module called 
 
 ```
